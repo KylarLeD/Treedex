@@ -7,6 +7,6 @@ but the rest is already pretty much set up for you.</p>
 
 # Screenshot Examples
 <h3>Dark</h3>
-![DarkVer](https://github.com/KylarLeD/Treedex/blob/main/Images/DarkScreenShot.png)
+![darkver](https://github.com/KylarLeD/Treedex/blob/main/Images/DarkScreenShot.png)
 <h3>Light</h3>
-![LightVer](https://github.com/KylarLeD/Treedex/blob/main/Images/LightScreenShot.png)
+![lightver](https://github.com/KylarLeD/Treedex/blob/main/Images/LightScreenShot.png)
